@@ -58,7 +58,7 @@ header h1 {
 
 .container img {
   display: block;  
-  max-width: 30%;
+  max-width: 50%;
   margin: 30px auto;
   padding: 0 20px;
 }
@@ -127,3 +127,4 @@ footer {
     font-size: 1.3rem;
   }
 }
+
